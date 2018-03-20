@@ -78,11 +78,11 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
+                <div class="title m-b-sm">
                   Bangladesh Web & Mobile Apps Design and Development Association
                 </div>
                 Coming Soon!!!
-            
+
 
             </div>
         </div>
