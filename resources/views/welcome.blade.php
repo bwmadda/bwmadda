@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Bangladesh Web & Mobile Apps Design and Development Association</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -79,9 +79,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Coming Soon!!!
+                  Bangladesh Web & Mobile Apps Design and Development Association
                 </div>
-
+                Coming Soon!!!
+            
 
             </div>
         </div>
