@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-sm">
-                  Bangladesh Web & Mobile Apps Design and Development Association
+                  BWMADDA
                 </div>
                 Coming Soon!!!
 
